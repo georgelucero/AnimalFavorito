@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+   background-color: orange;
+    background-image: url(../img/fondo1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: auto;
+}
+#contenedor{
+    position: relative;
+    margin: 10px auto;
+   
+    width: 800px;
+    height: 935px;
+    background-image: url(../img/jirafas.jpg);
+    background-size: 100% 100%;
+    background-repeat: repeat-x;
+    border: 10px solid black;
+   
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav .nav-link{
+    color: black;
+}
+main{
+   
+    width: 600px;
+    height: 600px;
+}
+main div#inicio{
+    width: 700px;
+    height: 570px;
+}
+main div.card{
+    margin-left: 10px;
+    float: right;
+    position: relative;
+    background-color: orange;
+    width: 200px;
+    margin-top: 80px;
+    margin-right: 10px;
+    
+}
+main p.card-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+
+.boxfooter{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    float: right;
+    flex-direction: column;
+    padding: 10px;
+}
+.boxfooter h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 700;
+}
+.boxfooter p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 600;
+}
+footer{
+
+
+    text-align: center;
+    background-color: orange;
+    width: 780px;
+    height: 115px ;
+    margin-left: 1px;
+    margin-top: 105px;
+    float: right;
+   
+}
+
+main #img1, #img2, #img3{
+width: 200px;
+
+text-align: center;
+position: relative;
+margin-right: 10px;
+
+
+
+}
+main div#imagendetalle{
+    width: 800px;
+    height: 100px;
+    margin-right: 100px;
+  padding-top:10px;
+    text-align: center;
+   
+}
+main div#parrafodetalle{
+    width: 700px;
+    height: 550px;
+    position: relative;
+   background-color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    margin: auto;
+    font-weight: 900px;
+    margin-top: 50px;
+   border: 10px solid orange;
+
+    
+}
+
+main div#detalles{
+   
+    width: 800px;
+    height:400px ;
+    
+}
+    table {
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    }
+   main div#jirafa{
+    padding-top: 100px;
+    margin-left: 100px;
+        text-align: center;
+        width: 600px;
+        height: 600px;
+    }
+    main div.carousel-inner{
+        width: 600px;
+        height: 400px;
+        border: 10px solid black;
+    }
+main div#info{
+    padding-top: 80px;
+    padding-left: 149px;
+    text-align: center;
+}  
+main div.mb-3{
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+
+}  
